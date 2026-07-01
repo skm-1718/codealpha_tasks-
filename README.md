@@ -17,16 +17,16 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 
 - Data cleaning and preprocessing
-- 
+  
 - Exploratory Data Analysis (EDA)
-- 
+  
 - Employee attrition and demographic analysis
-- 
+  
 - Data visualization and business insights
 
-- 
-- # Electric Vehicle Sales Analysis
-- 
+  
+# Electric Vehicle Sales Analysis
+  
 
 ## Overview
 
@@ -43,16 +43,16 @@ Python, Pandas, Matplotlib, Seaborn, Plotly
 
 
 - Sales trend analysis
-- 
+  
 - Market performance visualization
-- 
+  
 - Regional and category-wise insights
-- 
+  
 - Interactive charts and dashboards
-- 
+  
 
-- # Amazon Food Reviews Sentiment Analysis
-- 
+ # Amazon Food Reviews Sentiment Analysis
+  
 
 ## Overview
 
@@ -68,9 +68,9 @@ Python, Pandas, NLTK, Scikit-learn, Matplotlib, WordCloud
 
 
 - Text preprocessing and cleaning
-- 
+  
 - Sentiment classification
-- 
+  
 - Word frequency and visualization
-- 
+  
 - Customer opinion analysis using NLP
